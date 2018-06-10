@@ -15,8 +15,6 @@ import random
 import json
 import data.settings as s
 
-arr = [26, 27, 29, 30]
-
 def post_request(vals, url):
     """
     Build a post request.
@@ -30,19 +28,11 @@ def post_request(vals, url):
         Dictionary of JSON response or error info.
     """
     # Build the request and send to server
-    # data = urllib.urlencode(vals)
     api_data = json.dumps(vals)
     headers = {'content-type': 'application/json'}
 
-    print(api_data)
-
     try:
-        request = requests.post(url, data=api_data, headers=headers)
-        print("print erboven")
-        print(request.status_code)
-        print(request.content)
-        print("print eronder")
-        # response = request.json
+        requests.post(url, data=api_data, headers=headers)
     except:
         return {"error": "Error in connecting to server."}
 
@@ -66,12 +56,19 @@ def send_update(parkingspot_id, status_code, camera_id):
             "is_available": status_code,
             "parkingspot_id": parkingspot_id}
 
+    # create an array which will be used for the JSON dictionary
     parkingspots = []
+
+    # append the post data to the array
     parkingspots.append(vals)
+
+    #create the correct form in which the data will be sent to the server
     parkingspots_dict = {'parkingspot':parkingspots}
 
+    # get URL from settings.py
     url = s.SERVER_URL
 
+    # check URL
     print("URL IS:  " + url)
 
     return post_request(parkingspots_dict, url)
