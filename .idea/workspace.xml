@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="032d89ac-8ca2-44ad-beba-3bd295f8759d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/pi/_old/main.py" afterPath="$PROJECT_DIR$/pi/_old/main.py" />
+      <change beforePath="$PROJECT_DIR$/pi/_old/settings.py" afterPath="$PROJECT_DIR$/pi/_old/settings.py" />
+      <change beforePath="$PROJECT_DIR$/pi/_old/setup.py" afterPath="$PROJECT_DIR$/pi/_old/setup.py" />
+      <change beforePath="$PROJECT_DIR$/pi/_old/setup_classes.py" afterPath="$PROJECT_DIR$/pi/_old/setup_classes.py" />
+      <change beforePath="$PROJECT_DIR$/pi/_old/setup_selectarea.py" afterPath="$PROJECT_DIR$/pi/_old/setup_selectarea.py" />
+      <change beforePath="$PROJECT_DIR$/pi/data/settings.py" afterPath="$PROJECT_DIR$/pi/data/settings.py" />
+      <change beforePath="$PROJECT_DIR$/pi/imageread.py" afterPath="$PROJECT_DIR$/pi/imageread.py" />
+      <change beforePath="$PROJECT_DIR$/pi/main.py" afterPath="$PROJECT_DIR$/pi/main.py" />
+      <change beforePath="$PROJECT_DIR$/pi/pipark_setup.py" afterPath="$PROJECT_DIR$/pi/pipark_setup.py" />
+      <change beforePath="$PROJECT_DIR$/pi/pipark_setup_args.py" afterPath="$PROJECT_DIR$/pi/pipark_setup_args.py" />
       <change beforePath="$PROJECT_DIR$/pi/senddata.py" afterPath="$PROJECT_DIR$/pi/senddata.py" />
+      <change beforePath="$PROJECT_DIR$/server/admin/db.sql" afterPath="$PROJECT_DIR$/server/admin/db.sql" />
+      <change beforePath="$PROJECT_DIR$/server/admin/parkaction.php" afterPath="$PROJECT_DIR$/server/admin/parkaction.php" />
+      <change beforePath="$PROJECT_DIR$/server/admin/parks.php" afterPath="$PROJECT_DIR$/server/admin/parks.php" />
+      <change beforePath="$PROJECT_DIR$/server/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/server/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="$PROJECT_DIR$/server/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/server/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="$PROJECT_DIR$/server/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/server/bootstrap/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/server/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/server/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/server/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/server/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="$PROJECT_DIR$/server/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/server/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="$PROJECT_DIR$/server/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/server/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/server/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="$PROJECT_DIR$/server/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/server/bootstrap/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/server/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/server/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/server/includes/footer.php" afterPath="$PROJECT_DIR$/server/includes/footer.php" />
+      <change beforePath="$PROJECT_DIR$/server/includes/header.php" afterPath="$PROJECT_DIR$/server/includes/header.php" />
+      <change beforePath="$PROJECT_DIR$/server/index.php" afterPath="$PROJECT_DIR$/server/index.php" />
+      <change beforePath="$PROJECT_DIR$/server/init.php" afterPath="$PROJECT_DIR$/server/init.php" />
+      <change beforePath="$PROJECT_DIR$/server/recieve.php" afterPath="$PROJECT_DIR$/server/recieve.php" />
+      <change beforePath="$PROJECT_DIR$/server/register.php" afterPath="$PROJECT_DIR$/server/register.php" />
+      <change beforePath="$PROJECT_DIR$/server/spaces.php" afterPath="$PROJECT_DIR$/server/spaces.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +43,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="imageread.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="imageread.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pi/imageread.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="819">
-              <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="700">
+              <caret line="185" column="42" lean-forward="false" selection-start-line="185" selection-start-column="42" selection-end-line="185" selection-end-column="42" />
+              <folding>
+                <element signature="e#356#366#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -26,8 +58,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pi/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="423" column="73" lean-forward="false" selection-start-line="423" selection-start-column="73" selection-end-line="423" selection-end-column="73" />
+            <state relative-caret-position="504">
+              <caret line="427" column="16" lean-forward="true" selection-start-line="427" selection-start-column="16" selection-end-line="427" selection-end-column="16" />
               <folding>
                 <element signature="e#292#312#0" expanded="true" />
               </folding>
@@ -45,14 +77,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="senddata.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="senddata.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pi/senddata.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="679">
-              <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-              <folding>
-                <element signature="e#231#246#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1386">
+              <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,8 +90,28 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pi/data/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="38" column="51" lean-forward="false" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipark_setup_args.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pi/pipark_setup_args.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipark_setup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pi/pipark_setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="816" column="34" lean-forward="false" selection-start-line="816" selection-start-column="34" selection-end-line="816" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -85,9 +135,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pi/data/settings.py" />
-        <option value="$PROJECT_DIR$/pi/main.py" />
         <option value="$PROJECT_DIR$/pi/senddata.py" />
+        <option value="$PROJECT_DIR$/pi/main.py" />
+        <option value="$PROJECT_DIR$/pi/data/settings.py" />
+        <option value="$PROJECT_DIR$/server/index.php" />
+        <option value="$PROJECT_DIR$/server/init.php" />
+        <option value="$PROJECT_DIR$/server/recieve.php" />
+        <option value="$PROJECT_DIR$/server/register.php" />
+        <option value="$PROJECT_DIR$/server/spaces.php" />
+        <option value="$PROJECT_DIR$/pi/imageread.py" />
       </list>
     </option>
   </component>
@@ -228,7 +284,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="819">
           <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="30" />
-          <folding />
+          <folding>
+            <element signature="e#356#366#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -244,9 +302,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="53" column="30" lean-forward="false" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="30" />
-          <folding>
-            <element signature="e#231#246#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -272,7 +328,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="819">
           <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="30" />
-          <folding />
+          <folding>
+            <element signature="e#356#366#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -298,9 +356,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
           <caret line="68" column="29" lean-forward="false" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
-          <folding>
-            <element signature="e#231#246#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -316,28 +372,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pi/pipark_setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="485" column="71" lean-forward="false" selection-start-line="485" selection-start-column="68" selection-end-line="485" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pi/imageread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="819">
-          <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/recieve.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -384,30 +418,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pi/data/settings.py">
+    <entry file="file://$PROJECT_DIR$/pi/senddata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="38" column="51" lean-forward="false" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+        <state relative-caret-position="1386">
+          <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pi/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="423" column="73" lean-forward="false" selection-start-line="423" selection-start-column="73" selection-end-line="423" selection-end-column="73" />
+        <state relative-caret-position="504">
+          <caret line="427" column="16" lean-forward="true" selection-start-line="427" selection-start-column="16" selection-end-line="427" selection-end-column="16" />
           <folding>
             <element signature="e#292#312#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pi/senddata.py">
+    <entry file="file://$PROJECT_DIR$/server/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="676">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/recieve.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="51" column="2" lean-forward="false" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="61" column="2" lean-forward="false" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/spaces.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="131" column="37" lean-forward="false" selection-start-line="131" selection-start-column="37" selection-end-line="131" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pi/data/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pi/pipark_setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="816" column="34" lean-forward="false" selection-start-line="816" selection-start-column="34" selection-end-line="816" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pi/pipark_setup_args.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pi/imageread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="185" column="42" lean-forward="false" selection-start-line="185" selection-start-column="42" selection-end-line="185" selection-end-column="42" />
           <folding>
-            <element signature="e#231#246#0" expanded="true" />
+            <element signature="e#356#366#0" expanded="true" />
           </folding>
         </state>
       </provider>

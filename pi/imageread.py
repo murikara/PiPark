@@ -1,3 +1,4 @@
+
 """
 Author: Humphrey Shotton and Nicholas Sanders
 Filename: imageread.py

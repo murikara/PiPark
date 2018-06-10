@@ -1,3 +1,4 @@
+
 from uuid import getnode as get_mac
 
 PI_ID = get_mac()
@@ -37,5 +38,3 @@ PARK_ID = 1
 SERVER_PASS = "pi"
 
 SERVER_URL = "http://83.83.90.140:5000/parkingspot"
-
-

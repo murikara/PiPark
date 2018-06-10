@@ -1,3 +1,4 @@
+
 """
 Author: Humphrey Shotton
 Filename: senddata.py
@@ -68,9 +69,6 @@ def send_update(parkingspot_id, status_code, camera_id):
     # get URL from settings.py
     url = s.SERVER_URL
 
-    # check URL
-    print("URL IS:  " + url)
-
     return post_request(parkingspots_dict, url)
 
 
@@ -129,3 +127,4 @@ def register_pi(pi_id):
     vals = {"register_pi_id": pi_id}
 
     return post_request(vals, s.SERVER_URL)
+
